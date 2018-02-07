@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CD97C5B7200E833E00623382 /* GuessingGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD97C5B6200E833E00623382 /* GuessingGame.swift */; };
 		CDC63A17200A5A6A0091FBC1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC63A16200A5A6A0091FBC1 /* AppDelegate.swift */; };
 		CDC63A19200A5A6A0091FBC1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC63A18200A5A6A0091FBC1 /* ViewController.swift */; };
 		CDC63A1C200A5A6A0091FBC1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDC63A1A200A5A6A0091FBC1 /* Main.storyboard */; };
@@ -16,7 +15,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CD97C5B6200E833E00623382 /* GuessingGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessingGame.swift; sourceTree = "<group>"; };
 		CDC63A13200A5A6A0091FBC1 /* GuessingGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuessingGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDC63A16200A5A6A0091FBC1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CDC63A18200A5A6A0091FBC1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,7 +56,6 @@
 			children = (
 				CDC63A16200A5A6A0091FBC1 /* AppDelegate.swift */,
 				CDC63A18200A5A6A0091FBC1 /* ViewController.swift */,
-				CD97C5B6200E833E00623382 /* GuessingGame.swift */,
 				CDC63A1A200A5A6A0091FBC1 /* Main.storyboard */,
 				CDC63A1D200A5A6A0091FBC1 /* Assets.xcassets */,
 				CDC63A1F200A5A6A0091FBC1 /* LaunchScreen.storyboard */,
@@ -140,7 +137,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				CDC63A19200A5A6A0091FBC1 /* ViewController.swift in Sources */,
-				CD97C5B7200E833E00623382 /* GuessingGame.swift in Sources */,
 				CDC63A17200A5A6A0091FBC1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
